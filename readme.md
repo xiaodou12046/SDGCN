@@ -26,16 +26,16 @@ Then, put `glove.840B.300d.txt` into `./dataset/glove` directory.
 
 download and unzip bert model(`bert_base_uncased`) from https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased.tar.gz .
 
-Then, put `config.json` and `pytorch_model.bin` into `./bert_model` directory
+Then, put `config.json` and `pytorch_model.bin` into `./bert_model` directory.
 
 
 
 ### Train
 
-To train the SDGCN model, run the script  in `./script/train` directory
+To train the SDGCN model, run the script  in `./script/train` directory.
 
 
 
 ### Eval
 
-To eval the SDGCN model, run the script  in `./script/eval` directory
+To eval the SDGCN model, run the script  in `./script/eval` directory.
