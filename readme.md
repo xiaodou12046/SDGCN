@@ -39,3 +39,5 @@ To train the SDGCN model, run the script  in `./script/train` directory.
 ### Eval
 
 To eval the SDGCN model, run the script  in `./script/eval` directory.
+
+The model parameter dictionaries can be downloaded from https://drive.google.com/drive/folders/1PdouBAtisB2wNcGyhWrgiZYhdwLeYBHo?usp=sharing
