@@ -1,4 +1,4 @@
-# **Semantic Enhanced Dual-channel Graph Communication Network for Aspect-based Sentiment Analysis**
+# **SDGCN**
 
 This work is based on ‘Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree’
 
